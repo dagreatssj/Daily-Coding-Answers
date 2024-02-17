@@ -1,0 +1,6 @@
+.idea
+.venv
+
+# ignore credentials directory files
+coding_solver/credentials/*
+token.json
